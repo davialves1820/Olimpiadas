@@ -1,5 +1,6 @@
-Para compilar o programa usa-se o comando make no terminal. Após a compilação para executar utiliza-se './meu_programa'.
-A pasta src tem os arquivos C++ e dentro desta pasta tem a pasta include que contém os arquivos header.
+Para compilar o programa usa-se o comando make no terminal. Após a compilação para executar utiliza-se './build/meu_programa'.
+A pasta include contém os arquivos de cabeçalho .h e na pasta src contém os arquivos .cpp.
+Na pasta obj estão os arquivos compilados objetos .o e na pasta build o arquivo executável .exe
 Funcionalidade do Programa:
 Um programa que permite o cadastro e exibição de atletas, modalidades, países e medalhas.
 Quando solicitado pelo usuário, exibe os resultados das Olimpíadas com as informações dos atletas,
